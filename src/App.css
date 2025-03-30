@@ -1,36 +1,18 @@
 
 .p1:hover{
-    animation: popUpEffect 0.5s ease-in-out;
-  }
+    transform: scale(1.2);  }
   
 .p2:hover{
-    animation: popUpEffect 0.5s ease-in-out;
-  }
+    transform: scale(1.2);  }
   
 .p3:hover{
-    animation: popUpEffect 0.5s ease-in-out;
-  }
+    transform: scale(1.2);  }
   
 .p4:hover{
-    animation: popUpEffect 0.5s ease-in-out;
+    transform: scale(1.2);
   }
   
 .p5:hover{
-    animation: popUpEffect 0.5s ease-in-out;
-  }
-  
-
-
-
-  @keyframes popUpEffect {
-    0% {
-      transform: scale(1);
-    }
-    50% {
-      transform: scale(1.2); 
-    }
-    100% {
-      transform: scale(1); 
-    }
+    transform: scale(1.2);
   }
   
